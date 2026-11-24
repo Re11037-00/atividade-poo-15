@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "data": "18/10/2026 18:38",
+    "queixa_principal": "Teste",
+    "historico_saude": "",
+    "avaliacao": "",
+    "prescricao": "",
+    "id_horario": 1
+  },
+  {
+    "id": 2,
+    "data": "19/11/2026 15:37",
+    "queixa_principal": "a",
+    "historico_saude": "a",
+    "avaliacao": "a",
+    "prescricao": "a",
+    "id_horario": 1
+  }
+]
